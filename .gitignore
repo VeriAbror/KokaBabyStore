@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/functions/node_modules/
+/app/src/main/res/raw/service_account.json

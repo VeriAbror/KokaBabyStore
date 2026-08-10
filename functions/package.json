@@ -1,0 +1,13 @@
+{
+  "name": "kokababystore-functions",
+  "description": "Cloud Functions for Koka Baby Store",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "firebase-functions": "^5.0.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "firebase-tools": "^14.20.0"
+  }
+}
